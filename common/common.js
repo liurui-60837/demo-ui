@@ -5,6 +5,6 @@
 
 var ctx = "/eat/zuul"
 
-var ctx="http://localhost:8768";
+// var ctx="http://localhost:8768";
 
 var app_product = "/myproduct";
